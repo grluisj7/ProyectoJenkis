@@ -92,7 +92,7 @@
 </dependency>
 
 
-<!-- https://mvnrepository.com/artifact/org.projectlombok/lombod 23-->
+<!-- https://mvnrepository.com/artifact/org.projectlombok/lombod 4-->
 <dependency>
     <groupId>org.projectlombok</groupId>
     <artifactId>lombok</artifactId>
